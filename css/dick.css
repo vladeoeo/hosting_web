@@ -1,0 +1,29 @@
+.header {
+    margin-top:67px;
+    margin-left:130px;
+    width: 1040px;
+    height: 40px;
+    display:flex;
+    justify-content: space-between;
+
+}
+.header__logo {
+}
+.header_cartangood {
+}
+.header__cart {
+}
+.header__goodies {
+}
+.offer {
+}
+.offer_imgcenter {
+}
+.offer_title {
+}
+.offer_background {
+}
+.menu {
+}
+.menu_listem {
+}
